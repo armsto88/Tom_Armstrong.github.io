@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/310311028_10158434700206854_7966949474333618136_n.jpg"
+  avatar           : "310311028_10158434700206854_7966949474333618136_n.jpg"
   name             : "Tom Armstrong"
   pronouns         : # example: "she/her"  
   bio              : "🌿 Ecologist | 🌱 Conservation Technologist"
