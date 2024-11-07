@@ -15,7 +15,7 @@ main:
   #  url: /teaching/    
     
   - title: "About Me"
-    url: about_me.md
+    url: _pages/about_me.md
         
  # - title: "Blog Posts"
  #   url: /year-archive/
