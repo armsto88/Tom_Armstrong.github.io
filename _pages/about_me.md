@@ -1,3 +1,10 @@
+---
+title: "About Me"
+layout: archive
+permalink: /about_me.md/
+---
+
+
 ### About Me
 
 🌿 **Passion for Nature**  
