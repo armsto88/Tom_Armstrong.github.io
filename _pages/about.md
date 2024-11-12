@@ -9,6 +9,9 @@ redirect_from:
 
 
 
+
+
+
 🌿 **Passion for Nature**  
 My deep passion for the natural world has shaped my career path and fueled my desire to contribute to its preservation. I am particularly focused on applying conservation technology to enhance ecological decision-making, using innovative tools to better understand and protect our ecosystems.
 
@@ -22,15 +25,17 @@ My deep passion for the natural world has shaped my career path and fueled my de
 
 ### Key Areas of Focus
 
-- **🌍 Remote Sensing**: Utilizing satellite and aerial imagery for effective habitat mapping and species monitoring.
-- **🔊 Bioacoustics**: Implementing sound analysis techniques for wildlife detection and behavioral studies.
-- **📊 Data Analysis**: Employing machine learning algorithms to process and interpret complex ecological data.
-- **🤝 Community Engagement**: Promoting awareness and encouraging involvement in conservation initiatives to foster a collective commitment to protecting our environment.
+- **🌍 Remote Sensing**: Harnessing satellite and aerial imagery for effective habitat mapping and species monitoring.
+- **🔊 Sound Ecology**: Applying bioacoustics and sound analysis techniques to study wildlife behavior and ecosystem health.
+- **🖥️ Computer Vision for Ecology**: Using machine learning and computer vision techniques to analyze visual data for wildlife monitoring, habitat mapping, and species identification.
+- **📱 IoT**: Developing and deploying Internet of Things (IoT) solutions to monitor and collect ecological data in real-time.
+- **📊 Data Interpretation and Communication**: Leveraging data analysis and clear communication to inform conservation decisions and engage stakeholders.
 
 ---
 
 ### Get in Touch
 
 I am always eager to connect with fellow enthusiasts and professionals in the field. If you're interested in collaboration, discussions, or sharing insights on conservation technology, feel free to reach out!
+
 
 
