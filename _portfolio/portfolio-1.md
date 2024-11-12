@@ -1,6 +1,6 @@
 ---
 title: "Glossy-Pi"
-excerpt: "Real-time detection of the Glossy-Black Cockatoo. <br/><img src='/images/500x300.png'>"
+excerpt: "Real-time detection of the Glossy-Black Cockatoo." <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
  
