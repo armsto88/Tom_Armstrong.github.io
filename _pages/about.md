@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-
+### About me
 
 🌿 **Passion for Nature**  
 My deep passion for the natural world has shaped my career path and fueled my desire to contribute to its preservation. I am particularly focused on applying conservation technology to enhance ecological decision-making, using innovative tools to better understand and protect our ecosystems.
