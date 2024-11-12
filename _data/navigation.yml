@@ -5,8 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+
 - title: "CV"
-  url: /Resume_Tom Armstrong.pdf
+  url: files/Resume_Tom Armstrong.pdf/
     
  # - title: "Publications"
   #  url: /publications/
