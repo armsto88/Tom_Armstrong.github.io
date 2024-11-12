@@ -6,24 +6,24 @@
 
 main:
 
-- title: "CV"
-  url: files/Resume_Tom Armstrong.pdf/
+  - title: "CV"
+    url: /files/Resume_Tom_Armstrong.pdf
     
- # - title: "Publications"
-  #  url: /publications/
+  # Uncomment if you want to use these sections
+  # - title: "Publications"
+  #   url: /publications/
 
- # - title: "Talks"
-  #  url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
- # - title: "Teaching"
-  #  url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  # - title: "About Me"
+  #   url: /about_me.md
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  #- title: "About Me"
- #  url: /about_me.md
-        
- - title: "Blog Posts"
-   #url: /year-archive/
-    
-    
- # - title: "Guide"
- #   url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
