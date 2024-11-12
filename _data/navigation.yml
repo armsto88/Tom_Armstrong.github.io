@@ -6,7 +6,7 @@
 
 main:
 - title: "CV"
-    url: files/Resume_Tom Armstrong.pdf
+    url: /Resume_Tom Armstrong.pdf
     
  # - title: "Publications"
   #  url: /publications/
@@ -21,7 +21,7 @@ main:
  #  url: /about_me.md
         
  - title: "Blog Posts"
-   url: /year-archive/
+   #url: /year-archive/
     
     
  # - title: "Guide"
