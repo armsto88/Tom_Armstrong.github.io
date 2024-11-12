@@ -14,6 +14,7 @@
             {% assign domain = base_path %}
           {% endif %}
 
+          {% comment %}Check if the title is 'CV' to open in a new tab{% endcomment %}
           <a href="{{ domain }}{{ nav.url }}" {% if nav.title == "CV" %}target="_blank"{% endif %}>
             <span class="nav__sub-title">{{ nav.title }}</span>
           </a>
