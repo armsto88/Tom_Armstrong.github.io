@@ -7,7 +7,7 @@
 main:
 
   - title: "CV"
-    url: /files/Resume_Tom_Armstrong.pdf
+    url: files/Resume_Tom Armstrong.pdf
     
   # Uncomment if you want to use these sections
   # - title: "Publications"
