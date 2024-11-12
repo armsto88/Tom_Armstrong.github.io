@@ -38,7 +38,7 @@ This modular unit allows for flexibility in hardware and software updates, enabl
 While we utilize BirdNet’s open-source software, all other aspects of the unit, including intellectual property, are owned by Bushland Conservation Management.
 
 ![Image 1](images/Glossy_pi_1.jpg) ![Image 2](images/Glossy_pi_2.jpg) 
-![Image 1](images/Glossy_pi_3.jpg) ![Image 2](images/Glossy_pi_4.jpg) 
+![Image 3](images/Glossy_pi_3.jpg) ![Image 4](images/Glossy_pi_4.jpg) 
 
 ---
 
