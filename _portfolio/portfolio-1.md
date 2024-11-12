@@ -5,7 +5,6 @@ excerpt: |
 collection: portfolio
 ---
 
-Prototype: Glossy – Pi 
 
 Glossy-black Cockatoo Call Recognizer with Real-time Notifications and Daily Sound Clip Synchronization.
 
