@@ -6,7 +6,7 @@
 
 main:
 - title: "CV"
-    url: /Resume_Tom Armstrong.pdf
+  url: /Resume_Tom Armstrong.pdf
     
  # - title: "Publications"
   #  url: /publications/
